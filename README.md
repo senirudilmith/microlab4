@@ -35,5 +35,5 @@ A PCB is designed using the Proteus software which is baised on the exsiting sch
 
 ### Schematic Design
 
-<img src = "https://user-images.githubusercontent.com/111168422/184474878-cc7ec50e-db44-469c-8861-7aca1c22faf3.jpeg" width = "600" height = "500"/>
+<img src = "https://user-images.githubusercontent.com/111168422/184474878-cc7ec50e-db44-469c-8861-7aca1c22faf3.jpeg" width = "700" height = "500"/>
 
