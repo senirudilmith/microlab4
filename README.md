@@ -26,7 +26,7 @@ We are constructing a waterlevel sensor using the PIC16F877A microcontroller and
  <pre>  </pre>
  
  
-<img src = "https://user-images.githubusercontent.com/111168422/184474247-b2addf19-b9cb-488e-8027-138786af37ea.jpeg" width = "300" height = "200"/>
+<img src = "https://user-images.githubusercontent.com/111168422/184474247-b2addf19-b9cb-488e-8027-138786af37ea.jpeg" width = "300" height = "200" align = "middle"/>
 
  <pre>   </pre>
  
@@ -72,7 +72,7 @@ Manual tracing was done using the T50 line since that gives the appropiate width
 
 ### 3D PCB layout
 
-<u> The three dimensional view of the PCB with the components </u>
+The three dimensional view of the PCB with the components 
 
 <img src = "https://user-images.githubusercontent.com/111168422/184476003-4653df47-2c4b-4597-a753-383ee8d157ca.png" width = "900" height = "500"/>
 
