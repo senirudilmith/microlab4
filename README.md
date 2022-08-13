@@ -29,11 +29,18 @@ We are constructing a waterlevel sensor using the PIC16F877A microcontroller and
 7.5V DC Power Supply
 
 
-## PCB Design
+## <u>PCB Design</u>
 
 A PCB is designed using the Proteus software which is baised on the exsiting schematic design 
 
 ### Schematic Design
 
 <img src = "https://user-images.githubusercontent.com/111168422/184474878-cc7ec50e-db44-469c-8861-7aca1c22faf3.jpeg" width = "900" height = "500"/>
+
+### PCB layout 
+
+The PCB layout is genrated using the inbuilt PCB designing facilty of the Proteus Software and we use a Top Copper Layout 
+
+
+
 
