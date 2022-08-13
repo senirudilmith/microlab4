@@ -117,14 +117,18 @@ A jumper wire was connected since the connection cannot be made using a tracing 
 
 
 #define _XTAL_FREQ 20000000
+
 #include <xc.h>
+
 #include <htc.h>
 
 
 
 void activate1() 
+
 {
     RB1 = 1;     //
+    
     RB2 = 0;
     
 }
