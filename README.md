@@ -112,11 +112,12 @@ A jumper wire was connected since the connection cannot be made using a tracing 
 
 // Use project enums instead of #define for ON and OFF.
 
+#define _XTAL_FREQ 20000000
+
 #include <xc.h>
 
 #include <htc.h>
 
-#define _XTAL_FREQ 20000000
 
 
 void activate1()
@@ -125,7 +126,7 @@ void activate1()
 
     RB1 = 1;
     
-    RB3 = 0;
+    RB2 = 0;
     
 }
 
@@ -135,7 +136,7 @@ void activate2()
 
     RB1 = 1;
     
-    RB3 = 0;
+    RB2 = 0;
     
 }
 
@@ -147,26 +148,28 @@ void activate3()
     RB1 = 0;
  
     
-    RB3 = 1;
-   
-   
+    RB2 = 1;
+    
     __delay_ms(500);
+    
+    RB2 = 0;
    
-   
-    RB3 = 0;
-   
-   
+    
   }
 
 void main()
 
 {
+
     
     TRISB1 = 0;
+    
     TRISB2 = 0;
     
     TRISC1 = 1;
+    
     TRISC2 = 1;
+    
     TRISC3 = 1;
     
     
@@ -175,11 +178,13 @@ void main()
    
     
     while(1) {
+    
     if(RC3 == 0) {
         
         
             
             if(RC1 == 1 && RC2 == 0)
+            
             {
                 
                 activate1();
@@ -192,24 +197,38 @@ void main()
                 
                 activate2();
                 
-            }else{
+            }if(RC3 == 1){
                 
                 break;
+                
+            }else{
+                
+                RB1 = 0;
+                
+                RB2 = 0;
+                
+                
             }
         }
     
+    }
+        if(RC3 == 1)
         
-        if(RC3 == 1) 
         {
             
-                if(RC1 == 1 && RC2 == 1) 
+                if(RC1 == 1 && RC2 == 1)
+                
                 {
+                
                     activate3();
                     
                     
                 }else{
                     
-                    break;
+                    RB1 = 0;
+                    
+                    RB2 = 0;
+                    
                 }
                 
             }
@@ -217,9 +236,16 @@ void main()
             
             
         
-    }    
-     return;
+    
 }
+        
+      
+    
+    
+    
+    
+
+
 
 
 
