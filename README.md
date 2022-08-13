@@ -7,6 +7,11 @@ We are constructing a waterlevel sensor using the PIC16F877A microcontroller and
 ### Truth table
 <img src = "https://user-images.githubusercontent.com/111168422/184471413-6dc406d7-23a6-4f0d-9beb-82599c1baef8.png" width = "600" height ="300"/>
 
+### Equiment used
+
+1.PIC16F877A microcontroller
+
+<img src = "https://user-images.githubusercontent.com/111168422/184471728-6b954ec5-211a-49df-b4c6-b384149828d5.jpg" width = "400" height = "300"/>
 
 
 
