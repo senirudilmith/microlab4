@@ -28,6 +28,12 @@ We are constructing a waterlevel sensor using the PIC16F877A microcontroller and
 
 7.5V DC Power Supply
 
+8.Pins for external connections
+
+9.Crystal Oscillator 20Mhz
+
+10. 22pF Capacitors
+
 
 ## PCB Design
 
