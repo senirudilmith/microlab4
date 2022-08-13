@@ -43,6 +43,8 @@ A PCB is designed using the Proteus software which is baised on the exsiting sch
 
 <img src = "https://user-images.githubusercontent.com/111168422/184474878-cc7ec50e-db44-469c-8861-7aca1c22faf3.jpeg" width = "900" height = "500"/>
 
+The above Schematic diagram is derived according to the code being used by the microcontroller, since we do not use any interrupt condtions in the code but instead only check for the respective logic levels of the three switches connected we can create the schematic diagram in the above manner without specifying for the interrupt ports. 
+
 ### PCB layout 
 
 The PCB layout is genarated using the inbuilt PCB designing facilty of the Proteus Software and we use a top Copper Layout 
