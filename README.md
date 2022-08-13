@@ -9,31 +9,32 @@ We are constructing a waterlevel sensor using the PIC16F877A microcontroller and
 <img src = "https://user-images.githubusercontent.com/111168422/184471413-6dc406d7-23a6-4f0d-9beb-82599c1baef8.png" width = "600" height ="300"/>
 
 ### Equiment
-
-1.PIC16F877A microcontroller
+<ul>
+<li>PIC16F877A microcontroller
 
 <img src = "https://user-images.githubusercontent.com/111168422/184471728-6b954ec5-211a-49df-b4c6-b384149828d5.jpg" width = "300" height = "200"/>
 
-2.Jumper wires
+ <li>Jumper wires
 
-3.Breadboard
+<li>Breadboard
 
-4.Copper PCB
+<li>Copper PCB
 
 <img src = "https://user-images.githubusercontent.com/111168422/184474247-b2addf19-b9cb-488e-8027-138786af37ea.jpeg" width = "300" height = "200"/>
 
-5.LED 
+<li>LED 
 
-6.Analogue thermal sensors
+<li>Analogue thermal sensors
 
-7.5V DC Power Supply
+<li>5V DC Power Supply
 
-8.Pins for external connections
+<li>Pins for external connections
 
-9.Crystal Oscillator 20Mhz
+<li>Crystal Oscillator 20Mhz
 
-10.22pF Capacitors
-
+<li>22pF Capacitors
+  
+</ul>
 
 ## PCB Design
 
