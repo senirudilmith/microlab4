@@ -248,7 +248,7 @@ void main()
       
 ### Code discussion
 
-The code we use in this programme is created using the MPLAB X IDE V6.00 
+The code we use in this programme is created using the MPLAB X IDE V6.00. This was executed without the use of interrupt registers as analogue sensors are used the transtion edges would be spontaneous and instantaneous to be tracked by the intruept service routine therefore we used a regular bit test for each input pin nested within the while loop and test for each loop the corresponding status required and therby calling the subroutine.If loops are used to check the condtions of the input and give the relavant output. 
     
     
     
