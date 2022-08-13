@@ -80,7 +80,7 @@ The three dimensional view of the PCB with the components
 
 The PCB obtained after soldering the circuit 
 
-![WhatsApp_Image_2022-08-13_at_4 24 13_PM-removebg-preview](https://user-images.githubusercontent.com/111168422/184480522-3171153e-bba6-4bdd-b64a-f47f7570b89e.png)
+<img src = "https://user-images.githubusercontent.com/111168422/184480522-3171153e-bba6-4bdd-b64a-f47f7570b89e.png" width = "900" height = "500"/>
 
 
 
