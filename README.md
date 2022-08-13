@@ -1,5 +1,5 @@
 
-# microlab4
+# Microcomputers LAB 04 
 Waterlevel sensor using the PIC16F877A microcontroller 
 
 ## Introduction
