@@ -1,4 +1,4 @@
-<font face = "Times new roman">
+
 # microlab4
 Waterlevel sensor using the PIC16F877A microcontroller 
 
@@ -31,5 +31,9 @@ We are constructing a waterlevel sensor using the PIC16F877A microcontroller and
 
 ## PCB Design
 
-A PCB is designed using the Proteus software which is biased on the exsiting schematic design 
-  </font>
+A PCB is designed using the Proteus software which is baised on the exsiting schematic design 
+
+### Schematic Design
+
+<img src = "https://user-images.githubusercontent.com/111168422/184474878-cc7ec50e-db44-469c-8861-7aca1c22faf3.jpeg" width = "300" height = "200"/>
+
