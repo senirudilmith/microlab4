@@ -86,6 +86,7 @@ A jumper wire was connected since the connection cannot be made using a tracing 
 
 ## Code
 
+<ul>
 // PIC16F877A Configuration Bit Settings
 
 // 'C' source line config statements
@@ -102,6 +103,8 @@ A jumper wire was connected since the connection cannot be made using a tracing 
 
 // #pragma config statements should precede project file includes.
 // Use project enums instead of #define for ON and OFF.
+</ul>
+
 
 #define _XTAL_FREQ 20000000
 #include <xc.h>
