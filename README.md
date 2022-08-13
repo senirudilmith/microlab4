@@ -6,12 +6,14 @@ We are constructing a waterlevel sensor using the PIC16F877A microcontroller and
 
 ### Truth table
 <img src = "/imager/truthtable1.png">
-![truthtable1](https://user-images.githubusercontent.com/111168422/184470540-d7287723-ea3f-44d2-8048-cfffd6af0a6b.png)
+![truthtable1](https://user-images.githubusercontent.com/111168422/184470981-f4ec586b-cefe-4fa8-8489-4937a34a0ad8.png)
+
 
 
 
 ## PCB design
-pisbpsbs
+pisbpsbs!
+
 sbnbspbpspfh
 snspnbpsnpbnprib
 bsnosnbirnr
