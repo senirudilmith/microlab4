@@ -12,7 +12,7 @@ We are constructing a waterlevel sensor using the PIC16F877A microcontroller and
 <ul>
 <li>PIC16F877A microcontroller
 
-<img src = "https://user-images.githubusercontent.com/111168422/184471728-6b954ec5-211a-49df-b4c6-b384149828d5.jpg" width = "300" height = "200"/>
+<li><img src = "https://user-images.githubusercontent.com/111168422/184471728-6b954ec5-211a-49df-b4c6-b384149828d5.jpg" width = "300" height = "200"/>
 
  <li>Jumper wires
 
@@ -20,7 +20,7 @@ We are constructing a waterlevel sensor using the PIC16F877A microcontroller and
 
 <li>Copper PCB
 
-<img src = "https://user-images.githubusercontent.com/111168422/184474247-b2addf19-b9cb-488e-8027-138786af37ea.jpeg" width = "300" height = "200"/>
+<li><img src = "https://user-images.githubusercontent.com/111168422/184474247-b2addf19-b9cb-488e-8027-138786af37ea.jpeg" width = "300" height = "200"/>
 
 <li>LED 
 
