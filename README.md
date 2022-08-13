@@ -58,6 +58,8 @@ A PCB is designed using the Proteus software which is baised on the exsiting sch
 
 The above Schematic diagram is derived according to the code being used by the microcontroller, since we do not use any interrupt condtions in the code but instead only check for the respective logic levels of the three switches connected we can create the schematic diagram in the above manner without specifying for the interrupt ports.PORT C  RC 0,RC 3 and RC 4 are configured to be the respective input ports and PORT B  RB 1, RB 3 are configured to be the respective output ports. Port A was not used since if analog configuration  required to be connected they would be interfaced through this port.But in the circuit we have interfaced it with sensors in order to genarate a real world application of the PCB we had designed. 
 
+<img src = "https://user-images.githubusercontent.com/111168422/184494268-cb3464d0-9d45-421b-9aa7-a7d246c691c6.png" width = "900" height = "500"/>
+
 
 
 ### PCB layout 
@@ -244,7 +246,9 @@ void main()
 }
         
       
-    
+### Code discussion
+
+The code we use in this programme is created using the MPLAB X IDE V6.00 
     
     
     
