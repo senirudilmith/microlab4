@@ -32,7 +32,7 @@ We are constructing a waterlevel sensor using the PIC16F877A microcontroller and
 
 9.Crystal Oscillator 20Mhz
 
-10. 22pF Capacitors
+10.22pF Capacitors
 
 
 ## PCB Design
