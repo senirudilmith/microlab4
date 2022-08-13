@@ -1,4 +1,4 @@
-# microlab4
+<font face = "Times New Roman"># microlab4</font>
 Waterlevel sensor using the PIC16F877A microcontroller 
 
 ## Introduction
@@ -13,6 +13,11 @@ We are constructing a waterlevel sensor using the PIC16F877A microcontroller and
 
 <img src = "https://user-images.githubusercontent.com/111168422/184471728-6b954ec5-211a-49df-b4c6-b384149828d5.jpg" width = "300" height = "200"/>
 
+2.Jumper wires
+3.Breadboard
+4.Copper layed PCB
+
+<img src = "https://user-images.githubusercontent.com/111168422/184474247-b2addf19-b9cb-488e-8027-138786af37ea.jpeg" width = "300" height =
 
 
 
