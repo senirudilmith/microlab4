@@ -47,6 +47,7 @@ The PCB layout is genarated using the inbuilt PCB designing facilty of the Prote
 
 The three dimensional view of the PCB with the components
 
-<img src = "https://user-images.githubusercontent.com/111168422/184475923-b08150bc-7db9-4c57-9a89-26f6325800ca.jpeg" width = "900" height = "500" />
+<img src = "https://user-images.githubusercontent.com/111168422/184476003-4653df47-2c4b-4597-a753-383ee8d157ca.png" width = "900" height = "500"/>
+
 
 
