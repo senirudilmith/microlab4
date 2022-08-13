@@ -7,7 +7,7 @@ We are constructing a waterlevel sensor using the PIC16F877A microcontroller and
 ### Truth table
 <img src = "https://user-images.githubusercontent.com/111168422/184471413-6dc406d7-23a6-4f0d-9beb-82599c1baef8.png" width = "600" height ="300"/>
 
-### Equiment used
+### Equiment
 
 1.PIC16F877A microcontroller
 
@@ -26,13 +26,6 @@ We are constructing a waterlevel sensor using the PIC16F877A microcontroller and
 6.Analogue thermal sensors
 
 
-## PCB design
-pisbpsbs!
+## PCB
 
-sbnbspbpspfh
-snspnbpsnpbnprib
-bsnosnbirnr
-nsisrnpgpisrg
-
-
-ffsfsf
+A Copper plated PCB is constructed using the Proteus software and 
