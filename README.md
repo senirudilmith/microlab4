@@ -33,7 +33,7 @@ We are constructing a waterlevel sensor using the PIC16F877A microcontroller and
 
 A PCB is designed using the Proteus software which is baised on the exsiting schematic design 
 
-### <u> Schematic Design </u>
+<Font face = "Arial Black"> ### Schematic Design 
 
 <img src = "https://user-images.githubusercontent.com/111168422/184474878-cc7ec50e-db44-469c-8861-7aca1c22faf3.jpeg" width = "900" height = "500"/>
 
