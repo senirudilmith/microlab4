@@ -120,13 +120,18 @@ A jumper wire was connected since the connection cannot be made using a tracing 
 
 
 
-void activate1()
+
+
+
+
+
+void activate1() 
 
 {
 
     RB1 = 1;
     
-    RB2 = 0;
+    RB3 = 0;       //the condition one was activated triggering the RB! connected motor and not triggering the RB3 connected motor 
     
 }
 
@@ -136,7 +141,7 @@ void activate2()
 
     RB1 = 1;
     
-    RB2 = 0;
+    RB3 = 0;      //the condition two was activated triggering the RB! connected motor and not triggering the RB3 connected motor 
     
 }
 
@@ -145,14 +150,13 @@ void activate3()
 
 {
 
-    RB1 = 0;
- 
+    RB1 = 0; //the condition three was activated not triggering the RB1 connected motor and  triggering the RB3 connected motor for 500ms
     
-    RB2 = 1;
+    RB3 = 1;
     
     __delay_ms(500);
     
-    RB2 = 0;
+    RB3 = 0;
    
     
   }
@@ -162,72 +166,72 @@ void main()
 {
 
     
-    TRISB1 = 0;
+    TRISB1 = 0;     //Motor One - RB1  //PortB deaclared as the output ports
     
-    TRISB2 = 0;
+    TRISB3 = 0;     //Motor Two - RB2
     
-    TRISC1 = 1;
+    TRISC0 = 1;     //Switch one
     
-    TRISC2 = 1;
+    TRISC3 = 1;     //Switch two       //PortC deaclared as the input ports
     
-    TRISC3 = 1;
+    TRISC4 = 1;     //Switch three
     
     
     
     
    
     
-    while(1) {
+    while(1) {           //loop to infinty times till argument is met 
     
-    if(RC3 == 0) {
+    if(RC4 == 0) {                      //check if switch three is not set
         
         
             
-            if(RC1 == 1 && RC2 == 0)
-            
+            if(RC0 == 1 && RC3 == 0)     //check if switch one and two are not set
             {
                 
-                activate1();
+                activate1();                    //go to condtion one
                 
                 
                 
             }
             
-            if(RC1 == 1 && RC2 == 1) {
+            if(RC0 == 1 && RC3 == 1) {        //check if switch one and two are set 
                 
-                activate2();
+                activate2();                  //If true go to condtion two
                 
-            }if(RC3 == 1){
+            }if(RC4 == 1){
                 
-                break;
+                break;    
                 
             }else{
                 
-                RB1 = 0;
+                RB1 = 0;     //else deactivate all motors
                 
-                RB2 = 0;
+                RB3 = 0;
                 
                 
             }
         }
     
     }
-        if(RC3 == 1)
+    
+        if(RC4 == 1)     //check if switch three is not set
         
         {
             
-                if(RC1 == 1 && RC2 == 1)
+                if(RC0 == 1 && RC3 == 1)     //check if switch one and two are set
                 
                 {
                 
-                    activate3();
+                    activate3();    //goto condtion three
                     
                     
                 }else{
                     
-                    RB1 = 0;
+                    RB1 = 0;    //if not deactivate all motors
                     
-                    RB2 = 0;
+                    RB3 = 0;
                     
                 }
                 
@@ -240,6 +244,7 @@ void main()
 }
         
       
+    
     
     
     
