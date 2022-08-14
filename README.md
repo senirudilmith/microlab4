@@ -30,7 +30,8 @@ We are constructing a waterlevel sensor using the PIC16F877A microcontroller and
   
 <img src = "https://user-images.githubusercontent.com/111168422/184474247-b2addf19-b9cb-488e-8027-138786af37ea.jpeg" width = "300" height = "200" align = middle/>
 
- <pre>   </pre>
+ <p>   
+ </p>
  
 <li>LED 
 
