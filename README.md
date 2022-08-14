@@ -94,7 +94,7 @@ The above Schematic diagram is derived according to the code being used by the m
 
 ### PCB layout 
 
-The PCB layout is genarated using the inbuilt PCB designing facilty of the Proteus Software and we use a top Copper Layout 
+<b> The PCB layout is genarated using the inbuilt PCB designing facilty of the Proteus Software and we use a top Copper Layout </b>
 
 <img src = "https://user-images.githubusercontent.com/111168422/184475254-48a2ccd2-a423-4db6-a665-fbf007c17365.jpeg" width = "900" height = "500"/>
 
