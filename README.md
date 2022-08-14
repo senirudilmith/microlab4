@@ -15,7 +15,8 @@ We are constructing a waterlevel sensor using the PIC16F877A microcontroller and
  
 <img src = "https://user-images.githubusercontent.com/111168422/184471728-6b954ec5-211a-49df-b4c6-b384149828d5.jpg" width = "300" height = "200"/>
 
- <pre>  </pre>
+ <p>  
+ </p>
  
  <li>Jumper wires
 
