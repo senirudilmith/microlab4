@@ -38,6 +38,13 @@ We are constructing a waterlevel sensor using the PIC16F877A microcontroller and
 <li>LED 
 
 <li>Soil moisture sensors
+ 
+ <p>
+ </p>
+ 
+ <img src = "https://user-images.githubusercontent.com/111168422/184555131-b6f20775-30ba-45d9-8c90-b80aa82f17a5.png" >
+
+ 
 
 <li>5V DC Power Supply
 
