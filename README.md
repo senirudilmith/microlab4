@@ -22,6 +22,9 @@ We are constructing a waterlevel sensor using the PIC16F877A microcontroller and
  <li>Jumper wires
 
 <li>Breadboard
+ 
+ <p>
+ </p>
 
 <li>Copper PCB
 
