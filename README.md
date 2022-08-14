@@ -45,6 +45,15 @@ We are constructing a waterlevel sensor using the PIC16F877A microcontroller and
 
 <li>Crystal Oscillator 20Mhz
 
+ <p>
+ </p>
+ 
+ <img src = "https://user-images.githubusercontent.com/111168422/184554894-85998104-95a1-4cae-ba83-5375edf1b312.png" >
+
+ <p>
+ </p>
+ 
+
 <li>22pF Capacitors
   
 </ul>
@@ -84,6 +93,7 @@ The three dimensional view of the PCB with the components
 #### Bottom View
 
 <img src = "https://user-images.githubusercontent.com/111168422/184476003-4653df47-2c4b-4597-a753-383ee8d157ca.png" width = "900" height = "500"/>
+
 
 ### Desgined PCB 
 
