@@ -59,7 +59,7 @@ We are constructing a waterlevel sensor using the PIC16F877A microcontroller and
  <p>
  </p>
  
- <img src = "https://user-images.githubusercontent.com/111168422/184554982-d766fb28-d2b9-4316-828e-3b4dad6428e1.png" >
+ <img src = "https://user-images.githubusercontent.com/111168422/184554982-d766fb28-d2b9-4316-828e-3b4dad6428e1.png" width = "50" height = "50" >
 
  <p>
  </p>
