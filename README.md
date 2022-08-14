@@ -78,7 +78,7 @@ We are constructing a waterlevel sensor using the PIC16F877A microcontroller and
 
 ## PCB Design
 
-A PCB is designed using the Proteus software which is baised on the exsiting schematic design 
+<u> A PCB is designed using the Proteus software which is baised on the exsiting schematic design  </u>
 
 
 
