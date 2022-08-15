@@ -351,7 +351,8 @@ The code we use in this programme is created using the MPLAB X IDE V6.00. This w
     
  We use a soil moisture sensor to act as the switches of the circuit. This sensor can measure the volumetric content of water inside the soil. This sensor is consists of mainly two parts, one is sensing probs and another one is the sensor module.The probes allow current to flow through the soil, and they then calculate the resistance value based on the soil's moisture content. The Sensor Module receives data from the sensor probes, processes it, and outputs the result as either a digital or analog signal.The Soil Moisture Sensor can provide both types of output Digital output (DO) and Analog output(AO).
     
-    <img src = "https://user-images.githubusercontent.com/111168422/184584632-ff56c6ac-32de-4178-8436-94fb740b7f6b.png" >
+  
+<img src = "https://user-images.githubusercontent.com/111168422/184584803-808fbaf7-6c91-4b04-a66b-87cb958231b6.png">
 
 
 
