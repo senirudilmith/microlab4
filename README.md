@@ -26,7 +26,7 @@ We are constructing a waterlevel sensor using the PIC16F877A microcontroller and
  <p>
  </p>
  
- <img src = "https://user-images.githubusercontent.com/111168422/184579893-ae61f129-dc6b-41bb-8a47-df53d74eec3d.png">
+ <img src = "https://user-images.githubusercontent.com/111168422/184579893-ae61f129-dc6b-41bb-8a47-df53d74eec3d.png" width = "300" height = "200"/>
 
 
 <li>Copper PCB
