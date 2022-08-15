@@ -2,11 +2,27 @@
 # Microcomputers LAB 04 
 Waterlevel sensor using the PIC16F877A microcontroller 
 
+<p>
+ 
+ 
+ </p>
+
 ## Introduction 
 We are constructing a waterlevel sensor using the PIC16F877A microcontroller and to demonstrate the logic behind the system we are using analogue thermal sensors as the switches interfaced with the system and LEDS as the output to detect the relavant logic levels. The truth table behind the programme used is shown below
 
+<p>
+ 
+ 
+ </p>
+
 ### Truth table
 <img src = "https://user-images.githubusercontent.com/111168422/184471413-6dc406d7-23a6-4f0d-9beb-82599c1baef8.png" width = "800" height ="400"/>
+
+<p>
+ 
+ 
+ </p>
+
 
 ### Equiment
 <ul>
@@ -17,6 +33,8 @@ We are constructing a waterlevel sensor using the PIC16F877A microcontroller and
 <img src = "https://user-images.githubusercontent.com/111168422/184471728-6b954ec5-211a-49df-b4c6-b384149828d5.jpg" width = "300" height = "200"/>
 
  <p>  
+  
+  
  </p>
  
  <li>Jumper wires
@@ -24,6 +42,8 @@ We are constructing a waterlevel sensor using the PIC16F877A microcontroller and
 <li>Breadboard
  
  <p>
+  
+  
  </p>
  
  <img src = "https://user-images.githubusercontent.com/111168422/184579893-ae61f129-dc6b-41bb-8a47-df53d74eec3d.png" width = "300" height = "200"/>
@@ -46,6 +66,8 @@ We are constructing a waterlevel sensor using the PIC16F877A microcontroller and
 <li>Soil moisture sensors
  
  <p>
+  
+  
  </p>
  
  <img src = "https://user-images.githubusercontent.com/111168422/184555131-b6f20775-30ba-45d9-8c90-b80aa82f17a5.png" >
@@ -59,6 +81,8 @@ We are constructing a waterlevel sensor using the PIC16F877A microcontroller and
 <li>Crystal Oscillator 20Mhz
 
  <p>
+  
+  
  </p>
  
  <img src = "https://user-images.githubusercontent.com/111168422/184554894-85998104-95a1-4cae-ba83-5375edf1b312.png" >
@@ -79,13 +103,17 @@ We are constructing a waterlevel sensor using the PIC16F877A microcontroller and
  
   
 </ul>
-
+<p>
+ </p>
 
 
 ## PCB Design
 
 <b> A PCB is designed using the Proteus software which is baised on the exsiting schematic design  </b>
-
+<p>
+ 
+ 
+ </p>
 
 
 ### Schematic Design 
@@ -96,7 +124,10 @@ The above Schematic diagram is derived according to the code being used by the m
 
 <img src = "https://user-images.githubusercontent.com/111168422/184494268-cb3464d0-9d45-421b-9aa7-a7d246c691c6.png" width = "900" height = "500"/>
 
-
+<p>
+ 
+ 
+ </p>
 
 ### PCB layout 
 
@@ -106,15 +137,26 @@ The above Schematic diagram is derived according to the code being used by the m
 
 Manual tracing was done using the T50 line since that gives the appropiate width to be practically designed. Marker ink was used to etch the PCB on to the circuit and FeCl3 was used to remove the Copper that had not been etched by the marker ink therefore giving us the required layout of the circuit.   
 
-
+<p>
+ 
+ </p>
 
 ### 3D PCB layout
 
 The three dimensional view of the PCB with the components 
 
+<p>
+ 
+ </p>
+
 #### Bottom View
 
 <img src = "https://user-images.githubusercontent.com/111168422/184476003-4653df47-2c4b-4597-a753-383ee8d157ca.png" width = "900" height = "500"/>
+
+<p>
+ 
+ 
+ </p>
 
 
 ### Desgined PCB 
@@ -124,6 +166,12 @@ The PCB obtained after soldering the circuit
 <img src = "https://user-images.githubusercontent.com/111168422/184480522-3171153e-bba6-4bdd-b64a-f47f7570b89e.png" width = "900" height = "500"/>
 
 A jumper wire was connected since the connection cannot be made using a tracing line since we found no way to avoid the fundermental design error occuring when connecting the grounds therefore to mitigate this error a jumper wire cable is used. The base is used to connect the pic microcontroller.The header connectors are solderd on to the circuit as well as the other componenets. The header connectors are used to interface the circuit with the external sensors and the output.
+
+<p>
+ 
+ 
+ </p>
+
 
 ## Code
 
@@ -283,17 +331,28 @@ void main()
         
     
 }
-        
+
+<p>
+ 
+ 
+ </p>
       
 ### Code discussion
 
 The code we use in this programme is created using the MPLAB X IDE V6.00. This was executed without the use of interrupt registers as analogue sensors are used the transtion edges would be spontaneous and instantaneous to be tracked by the intruept service routine therefore we used a regular bit test for each input pin nested within the while loop and test for each loop the corresponding status required and therby calling the subroutine.If loops are used to check the condtions of the input and give the relavant output. 
 
+<p>
+ 
+ 
+ </p>
+
+
 ## Sensors used
     
+ We use a soil moisture sensor to act as the switches of the circuit. This sensor can measure the volumetric content of water inside the soil. This sensor is consists of mainly two parts, one is sensing probs and another one is the sensor module.The probes allow current to flow through the soil, and they then calculate the resistance value based on the soil's moisture content. The Sensor Module receives data from the sensor probes, processes it, and outputs the result as either a digital or analog signal.The Soil Moisture Sensor can provide both types of output Digital output (DO) and Analog output(AO).
     
-    
-    
+    <img src = "https://user-images.githubusercontent.com/111168422/184584632-ff56c6ac-32de-4178-8436-94fb740b7f6b.png" >
+
 
 
 
