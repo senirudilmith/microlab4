@@ -355,7 +355,7 @@ The code we use in this programme is created using the MPLAB X IDE V6.00. This w
 <img align = "middle" src = "https://user-images.githubusercontent.com/111168422/184584803-808fbaf7-6c91-4b04-a66b-87cb958231b6.png" width = "300" height = "300" />
 
 
-## Uplaoding the code
+## Uploading the code
 
 we used the pickit 3 development kit to uplaod the c source code into the microcontroller and this was done via the mplab ipe software.The following connections were performed on the board and the program was uploaded
    
