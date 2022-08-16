@@ -379,7 +379,7 @@ we used the pickit 3 development kit to uplaod the c source code into the microc
  Uploading the programe after production of the programme
  
 
-<img src = "https://user-images.githubusercontent.com/111168422/184999393-72cf3133-bb67-4380-8066-fede9a669d6b.jpeg" height = "500" width = "500" />
+<img src = "https://user-images.githubusercontent.com/111168422/184999393-72cf3133-bb67-4380-8066-fede9a669d6b.jpeg" height = "300" width = "500" />
 
 
         
