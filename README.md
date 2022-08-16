@@ -360,6 +360,7 @@ The code we use in this programme is created using the MPLAB X IDE V6.00. This w
 we used the pickit 3 development kit to uplaod the c source code into the microcontroller and this was done via the mplab ipe software.The following connections were performed on the board and the program was uploaded
    
    <img src = "https://user-images.githubusercontent.com/111168422/184998581-09e34ba7-7c57-47b0-9495-1a770974c9b0.png">
+   <img src = "https://user-images.githubusercontent.com/111168422/184998718-62798101-bcc0-4a78-bf4b-39365d39e141.png" >
 
 
 
