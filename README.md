@@ -417,9 +417,11 @@ we used the pickit 3 development kit to uplaod the c source code into the microc
 
 ## Implementation
 
-We built the circuit using 2 breadboards and placing the sensors and the outputs on the breadboards that we had created as shown below 
+<b> We built the circuit using 2 breadboards and placing the sensors and the outputs on the breadboards that we had created as shown below </b> 
 
 <img src = "https://user-images.githubusercontent.com/111168422/185463637-f624bbc6-9b0f-45f6-ba44-268334556899.jpg" >
+
+<b> The sensors were dipped in water to obtain the required output as the sensors would behave as the switches of the system </b>
 
 
         
