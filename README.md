@@ -429,6 +429,9 @@ we used the pickit 3 development kit to uplaod the c source code into the microc
 
 <li> Since the sensors are not hydrophobic we cannot observe the correct output without observing a certain delay 
 <li> We should allocate some time for the sensors to dry probably using a piece of cloth which is non static
+<li> The sensors take some time to indicate the changes therefore we have to quickly clean them after use
+ 
+ 
  
       
     
