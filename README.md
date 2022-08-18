@@ -53,10 +53,7 @@ The PIC microcontroller PIC16f877a is one of the most well-known in the industry
  </p>
  
  <img src = "https://user-images.githubusercontent.com/111168422/184579893-ae61f129-dc6b-41bb-8a47-df53d74eec3d.png" width = "300" height = "200"/>
-<p>
-  
- </p>
-A printed circuit board (PCB) or printed wiring board (PWB) is a sandwiched laminated structure made up of conducting and insulating layers. PCBs have two distinct purposes. The initial step is to solder electronic components into certain positions on the outer layers. The second step is to provide reliable electrical connections (as well as reliable open circuits) between the component's terminals in a controlled way, which is known as PCB design.
+
  
  <p>
   
@@ -64,9 +61,14 @@ A printed circuit board (PCB) or printed wiring board (PWB) is a sandwiched lami
 
 <li>Copper PCB
 
- 
+ <p>
+  
+ </p>
+A printed circuit board (PCB) or printed wiring board (PWB) is a sandwiched laminated structure made up of conducting and insulating layers. PCBs have two distinct purposes. The initial step is to solder electronic components into certain positions on the outer layers. The second step is to provide reliable electrical connections (as well as reliable open circuits) between the component's terminals in a controlled way, which is known as PCB design.
 
- 
+ <p>
+  
+ </p>
  
  
 <img src = "https://user-images.githubusercontent.com/111168422/184474247-b2addf19-b9cb-488e-8027-138786af37ea.jpeg" width = "300" height = "200" align = middle/>
