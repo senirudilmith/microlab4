@@ -425,6 +425,11 @@ we used the pickit 3 development kit to uplaod the c source code into the microc
 
 <img src = "https://user-images.githubusercontent.com/111168422/185464662-efdf0261-e0cb-4a5f-b341-e5280c30cecc.jpg" >
 
+### Issues with the sensors
+
+<li> Since the sensors are not hydrophobic we cannot observe the correct output without observing a certain delay 
+<li> We should allocate some time for the sensors to dry probably using a piece of cloth which is non static
+ 
       
     
 
