@@ -384,7 +384,11 @@ The code we use in this programme is created using the MPLAB X IDE V6.00. This w
 ## Sensors used
     
  We use a soil moisture sensor to act as the switches of the circuit. This sensor can measure the volumetric content of water inside the soil. This sensor is consists of mainly two parts, one is sensing probs and another one is the sensor module.The probes allow current to flow through the soil, and they then calculate the resistance value based on the soil's moisture content. The Sensor Module receives data from the sensor probes, processes it, and outputs the result as either a digital or analog signal.The Soil Moisture Sensor can provide both types of output Digital output (DO) and Analog output(AO).
-    
+
+### Process of the soil moisture sensor
+
+When more water in the soil then prob’s conductivity will increase and resistance will decrease. So, a Low amount of voltage from the sensing probe is given to the Inverting input (2) of the IC. Then the LM393 Comparator IC compares this voltage with the threshold voltage. In this condition, this input voltage is less than the threshold voltage, so the soil sensor output goes LOW (0).When less water in the soil then prob’s have low conductivity and high resistance. So, a High amount of voltage from the sensing probe is given to the Inverting input (2) of the IC. Then the LM393 Comparator IC compares this voltage with the threshold voltage. In this condition, this input voltage is greater than the threshold voltage, so the sensor output goes High (1).
+
   
 <img align = "middle" src = "https://user-images.githubusercontent.com/111168422/184584803-808fbaf7-6c91-4b04-a66b-87cb958231b6.png" width = "300" height = "300" />
 
@@ -430,8 +434,16 @@ we used the pickit 3 development kit to uplaod the c source code into the microc
 <li> Since the sensors are not hydrophobic we cannot observe the correct output without observing a certain delay 
 <li> We should allocate some time for the sensors to dry probably using a piece of cloth which is non static
 <li> The sensors take some time to indicate the changes therefore we have to quickly clean them after use
+<li> The reason the LED is blinking out of water is due to 
  
  
+</li>
+
+### Output Explanation
+
+When we dip the sensors one and two into the water cup it performs the function of switches and the system should 
+
+
  
       
     
