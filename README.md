@@ -196,8 +196,13 @@ A jumper wire was connected since the connection cannot be made using a tracing 
  <li> Print out the design onto the shiny side of the transfer paper
  <li> Sand the copper plate so there is a rough surface for the design to stick to when transfered
  <li> Wash the copper with some water and rubbing alcohol and let it dry
- <li>  Cut out the designs and place them face down on the copper
- 
+ <li> Cut out the designs and place them face down on the copper
+ <li> Run the copper plate with the design face down through a laminator 5-7 times until the plate is hot
+ <li> Place the PCB into the etching solution and agitate for 25-30 minutes or until all the copper has dissolved around the design
+ <li> Once all the copper is gone rinse it in the water bath, let it dry and use rubbing alcohol to remove off the ink transfered onto the PCB
+ <li> And now you have an etched PCB board after that we drill the holes
+  
+  
  </ol> 
  
 
