@@ -441,8 +441,15 @@ we used the pickit 3 development kit to uplaod the c source code into the microc
 
 ### Output Explanation
 
-When we dip the sensors one and two into the water cup it performs the function of switches and the system should 
+When we dip the sensors one and two into the water cup it performs the function of switches and the system should funtction according to the truth table we had created 
+     <li> When we dip the third sensor the RED Led at the top should light up
+     <li> When we dip the second sensor the RED LED should be still lit up
+     <li> When we remove the both the above dipped sensors the RED led at the bottom should light up for 500ms 
+     <li> When we dip all the three sensors the LEDS should turn off as all switches are off
 
+We account for the delay observed in obtaining the outputs and we should let the nodes dry before we restart the process      
+      
+      
 
  
       
