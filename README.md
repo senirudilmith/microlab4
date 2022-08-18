@@ -415,7 +415,12 @@ we used the pickit 3 development kit to uplaod the c source code into the microc
 
 <img src = "https://user-images.githubusercontent.com/111168422/184999393-72cf3133-bb67-4380-8066-fede9a669d6b.jpeg" height = "300" width = "500" />
 
-## Implemantaion 
+## Implementation
+
+We built the circuit using 2 breadboards and placing the sensors and the outputs on the breadboards that we had created as shown below 
+
+<img src = "https://user-images.githubusercontent.com/111168422/185463637-f624bbc6-9b0f-45f6-ba44-268334556899.jpg" height = "300" width = "500" />
+
 
         
       
