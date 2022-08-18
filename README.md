@@ -423,8 +423,8 @@ we used the pickit 3 development kit to uplaod the c source code into the microc
 
 <b> The sensors were dipped in water to obtain the required output as the sensors would behave as the switches of the system </b>
 
+<img src = "https://user-images.githubusercontent.com/111168422/185464662-efdf0261-e0cb-4a5f-b341-e5280c30cecc.jpg" >
 
-        
       
     
 
