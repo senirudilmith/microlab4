@@ -187,6 +187,15 @@ A jumper wire was connected since the connection cannot be made using a tracing 
  
  
  </p>
+ 
+ 
+ ### PCB physical design process 
+ 
+<ol>
+ <li>Design
+  
+ 
+ 
 
 
 ## Code
