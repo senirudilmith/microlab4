@@ -192,7 +192,7 @@ A jumper wire was connected since the connection cannot be made using a tracing 
  ### PCB physical design process 
  
 <ol>
- <li> Design
+ <li> Design the PCB in proteus software
  <li> Print out the design onto the shiny side of the transfer paper
  <li> Sand the copper plate so there is a rough surface for the design to stick to when transfered
  <li> Wash the copper with some water and rubbing alcohol and let it dry
