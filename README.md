@@ -298,7 +298,7 @@ void main()
     
     TRISB1 = 0;     //Motor One - RB1  //PortB deaclared as the output ports
     
-    TRISB3 = 0;     //Motor Two - RB2
+    TRISB3 = 0;     //Motor Two - RB3
     
     TRISC0 = 1;     //Switch one
     
