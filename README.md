@@ -13,6 +13,12 @@ Waterlevel sensor using the PIC16F877A microcontroller
  <li> EN21475986 - Seniru Dilmith Rathnayake
  <li> EN21476426 - Weerasekara W.A.K.P
  <li> EN21467516 - De Zoysa R.E
+</ul>
+
+<p>
+ 
+ </p>
+ 
 
 ## Abstract 
 A water level control system for a water tank was created mostly utilizing the PIC16f877A microcontroller. To obtain the necessary circuit, a C language code was generated using the MPLabs software, and a schematic layout of the required circuit was designed on the Proteus software and afterwards converted to a PCB layout. DC motors, sensors, and other devices were also employed to create the required circuit.
@@ -509,7 +515,7 @@ The circuit we built worked according to the planned out logic and the relavant 
 ‌<li> [1]“What is logic level? - Definition from WhatIs.com,” WhatIs.com. https://www.techtarget.com/whatis/definition/logic-level#:~:text=A%20logic%20level%20is%20one (accessed Aug. 19, 2022).
 ‌
 ‌
- </li>
+ </ul>
 
 
 
