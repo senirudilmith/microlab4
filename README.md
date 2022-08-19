@@ -471,6 +471,8 @@ The circuit we built worked according to the planned out logic and the relavant 
  <li>[1]Wikipedia Contributors, “Printed circuit board,” Wikipedia, Jan. 05, 2020. https://en.wikipedia.org/wiki/Printed_circuit_board
  <li>[1]“Dynamic Product Page | Microchip Technology,” www.microchip.com. https://www.microchip.com/en-us/product/PIC16F877A
 ‌ <li> [1]“Arduino&Soil Moisture Sensor-Interfacing Tutorial-Circuit Diagram,Applications,” Electronic Circuits and Diagrams-Electronic Projects and Design, Mar. 10, 2017. https://www.circuitstoday.com/arduino-soil-moisture-sensor#:~:text=Working%20of%20Sensor (accessed Aug. 19, 2022).
+‌ <li>[1]“Types of Printed Circuit Boards | World’s Way,” May 11, 2021. https://worldsway.com/types-of-pcb-boards/
+‌<li> [1]“What is logic level? - Definition from WhatIs.com,” WhatIs.com. https://www.techtarget.com/whatis/definition/logic-level#:~:text=A%20logic%20level%20is%20one (accessed Aug. 19, 2022).
 ‌
 ‌
  </li>
