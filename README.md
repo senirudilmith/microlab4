@@ -463,7 +463,17 @@ https://user-images.githubusercontent.com/111168422/185489325-9fd3bcda-93e7-4ace
 
 ## Conclusion 
 
-The circuit we built worked according to the planned out logic and the relavant outputs were obtained. However we observed the issues regarding the output of the circuit with some issues. We should have used motion sensors to the circuit instead of the soil moisture sensors to obtain a better output instead. Soil moisture sensor has a node that is not hydrophobic therefore the outputs cannot be observed clearly because of the residue genrates a delay in potential differnce of the circuit. The PCB had a copper oxide formation but we could have avoided that by the application of protective coating on the circuit instead of using it directly can prevent the oxide formation. We could have used an other type of PCB for better effect like a aluminum backed PCB but this type of PCB can be built at home easily compared to other types of PCB. Could have used assembly code as it gives better flexibilty in the micr
+The circuit we built worked according to the planned out logic and the relavant outputs were obtained. However we observed the issues regarding the output of the circuit with some issues. We should have used motion sensors to the circuit instead of the soil moisture sensors to obtain a better output instead. Soil moisture sensor has a node that is not hydrophobic therefore the outputs cannot be observed clearly because of the residue genrates a delay in potential differnce of the circuit. The PCB had a copper oxide formation but we could have avoided that by the application of protective coating on the circuit instead of using it directly can prevent the oxide formation. We could have used an other type of PCB for better effect like a aluminum backed PCB but this type of PCB can be built at home easily compared to other types of PCB. Could have used assembly code as it gives better flexibilty in the microcontroller.
+
+## References 
+
+<ul>
+ <li>[1]Wikipedia Contributors, “Printed circuit board,” Wikipedia, Jan. 05, 2020. https://en.wikipedia.org/wiki/Printed_circuit_board
+ <li>[1]“Dynamic Product Page | Microchip Technology,” www.microchip.com. https://www.microchip.com/en-us/product/PIC16F877A
+‌ <li> [1]“Arduino&Soil Moisture Sensor-Interfacing Tutorial-Circuit Diagram,Applications,” Electronic Circuits and Diagrams-Electronic Projects and Design, Mar. 10, 2017. https://www.circuitstoday.com/arduino-soil-moisture-sensor#:~:text=Working%20of%20Sensor (accessed Aug. 19, 2022).
+‌
+‌
+ </li>
 
 
 
