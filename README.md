@@ -440,7 +440,7 @@ we used the pickit 3 development kit to uplaod the c source code into the microc
 <li> Since the sensors are not hydrophobic we cannot observe the correct output without observing a certain delay 
 <li> We should allocate some time for the sensors to dry probably using a piece of cloth which is non static
 <li> The sensors take some time to indicate the changes therefore we have to quickly clean them after use
-<li> The reason the LED is blinking out of water is due to 
+<li> The reason the LED is blinking out of water is due to this
  
  
 </li>
@@ -463,7 +463,7 @@ https://user-images.githubusercontent.com/111168422/185489325-9fd3bcda-93e7-4ace
 
 ## Conclusion 
 
-The circuit we built worked according to the planned out logic and the relavant outputs were obtained. However we observed the issues regarding the output of the circuit with some issues. We should have used motion sensors to the circuit instead of the soil moisture sensors to obtain a better output instead. Soil moisture sensor has a node that is not hydrophobic therefore the outputs cannot be observed clearly because of the residue genrates a delay in potential differnce of the circuit. The PCB had a copper oxide formation but we could have avoided that by the application of protective coating on the circuit instead of using the 
+The circuit we built worked according to the planned out logic and the relavant outputs were obtained. However we observed the issues regarding the output of the circuit with some issues. We should have used motion sensors to the circuit instead of the soil moisture sensors to obtain a better output instead. Soil moisture sensor has a node that is not hydrophobic therefore the outputs cannot be observed clearly because of the residue genrates a delay in potential differnce of the circuit. The PCB had a copper oxide formation but we could have avoided that by the application of protective coating on the circuit instead of using it directly can prevent the oxide formation. We could have used an other type of PCB for better effect like a aluminum backed PCB but this type of PCB can be built at home easily compared to other types of PCB. Could have used assembly code as it gives better flexibilty in the micr
 
 
 
