@@ -461,7 +461,9 @@ We account for the delay observed in obtaining the outputs and we should let the
 https://user-images.githubusercontent.com/111168422/185489325-9fd3bcda-93e7-4ace-bda8-5df5d9dc6ff9.mp4
 
 
+## Conclusion 
 
+The circuit we built worked according to the planned out logic and the relavant outputs were obtained. However we observed the issues regarding the output of the circuit with some issues. We should have used motion sensors to the circuit instead of the soil moisture sensors to obtain a better output instead. Soil moisture sensor has a node that is not hydrophobic therefore the outputs cannot be observed clearly because of the residue genrates a delay in potential differnce of the circuit. The PCB had a copper oxide formation but we could have avoided that by the application of protective coating on the circuit instead of using the 
 
 
 
