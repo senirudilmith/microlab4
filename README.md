@@ -7,6 +7,13 @@ Waterlevel sensor using the PIC16F877A microcontroller
  
  </p>
 
+## Abstract 
+A water level control system for a water tank was created mostly utilizing the PIC16f877A microcontroller. To obtain the necessary circuit, a C language code was generated using the MPLabs software, and a schematic layout of the required circuit was designed on the Proteus software and afterwards converted to a PCB layout. DC motors, sensors, and other devices were also employed to create the required circuit.
+
+
+
+
+
 ## Introduction 
 We are constructing a waterlevel sensor using the PIC16F877A microcontroller and to demonstrate the logic behind the system we are using analogue thermal sensors as the switches interfaced with the system and LEDS as the output to detect the relavant logic levels. The truth table behind the programme used is shown below
 
