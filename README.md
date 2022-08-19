@@ -447,15 +447,15 @@ When we dip the sensors one and two into the water cup it performs the function 
      <li> When we remove the both the above dipped sensors the RED led at the bottom should light up for 500ms 
      <li> When we dip all the three sensors the LEDS should turn off as all switches are off
 
+</li>
+
 We account for the delay observed in obtaining the outputs and we should let the nodes dry before we restart the process      
       
-      
-
- 
-      
-    
-
 https://user-images.githubusercontent.com/111168422/185489325-9fd3bcda-93e7-4ace-bda8-5df5d9dc6ff9.mp4
+
+
+
+
 
 
 
