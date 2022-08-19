@@ -140,7 +140,7 @@ A printed circuit board (PCB) or printed wiring board (PWB) is a sandwiched lami
  <p>
  </p>
  
-  <img src = "https://user-images.githubusercontent.com/111168422/185672584-fac976cb-6c94-41b5-b35a-bedd34186cfa.png" width = "150" height = "150" >
+  <img src = "https://user-images.githubusercontent.com/111168422/185672584-fac976cb-6c94-41b5-b35a-bedd34186cfa.png" width = "200" height = "200" >
 
  <p>
  </p>
