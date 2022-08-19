@@ -399,7 +399,6 @@ When more water in the soil then prob’s conductivity will increase and resista
   
 <img align = "middle" src = "https://user-images.githubusercontent.com/111168422/184584803-808fbaf7-6c91-4b04-a66b-87cb958231b6.png" width = "300" height = "300" />
 
-
 ## Uploading the code
 
 we used the pickit 3 development kit to uplaod the c source code into the microcontroller and this was done via the mplab ipe software.The following connections were performed on the board and the program was uploaded
@@ -457,6 +456,7 @@ When we dip the sensors one and two into the water cup it performs the function 
 </li>
 
 We account for the delay observed in obtaining the outputs and we should let the nodes dry before we restart the process      
+
       
 https://user-images.githubusercontent.com/111168422/185489325-9fd3bcda-93e7-4ace-bda8-5df5d9dc6ff9.mp4
 
